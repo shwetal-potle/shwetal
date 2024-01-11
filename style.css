@@ -1,12 +1,16 @@
-body{
+body {
     background-color: rgb(157, 188, 106)
 }
 
+body{
+    color: blue;
+}
 
 header a{
     color:rgb(0, 0, 0);
 }
 
 .active{
-    color: blue;
+    color: rgb(255, 0, 191);
 }
+
