@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(157, 188, 106)
+}
+
+
+header a{
+    color:rgb(0, 0, 0);
+}
+
+.active{
+    color: blue;
+}
